@@ -1,5 +1,7 @@
 # tradexatask
 
+Its a Movies Details Searching App
+
 ![Happy Christmas](Screenshot_1631208025.png)
 
 ## Getting Started
