@@ -1,6 +1,6 @@
 # tradexatask
 
-A new Flutter project.
+(Screenshot_1631208025.png)
 
 ## Getting Started
 
